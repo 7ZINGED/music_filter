@@ -1,0 +1,109 @@
+/*
+
+Xilinx Vivado v2018.3 (64-bit) [Major: 2018, Minor: 3]
+SW Build: 2405991 on Thu Dec  6 23:38:27 MST 2018
+IP Build: 2404404 on Fri Dec  7 01:43:56 MST 2018
+
+Process ID (PID): 15032
+License: Customer
+
+Current time: 	Sun Mar 22 16:38:56 CST 2026
+Time zone: 	China Standard Time (Asia/Shanghai)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 16
+
+Screen size: 1920x1080
+Screen resolution (DPI): 96
+Available screens: 2
+Available disk space: 267 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	9.0.4 64-bit
+Java home: 	E:/program/amd_fpga/vivado/Vivado/2018.3/tps/win64/jre9.0.4
+Java executable location: 	E:/program/amd_fpga/vivado/Vivado/2018.3/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	24158
+User home directory: C:/Users/24158
+User working directory: E:/test - 副本/filiter/testip/project_1
+User country: 	CN
+User language: 	zh
+User locale: 	zh_CN
+
+RDI_BASEROOT: E:/program/amd_fpga/vivado/Vivado
+HDI_APPROOT: E:/program/amd_fpga/vivado/Vivado/2018.3
+RDI_DATADIR: E:/program/amd_fpga/vivado/Vivado/2018.3/data
+RDI_BINDIR: E:/program/amd_fpga/vivado/Vivado/2018.3/bin
+
+Vivado preferences file location: C:/Users/24158/AppData/Roaming/Xilinx/Vivado/2018.3/vivado.xml
+Vivado preferences directory: C:/Users/24158/AppData/Roaming/Xilinx/Vivado/2018.3/
+Vivado layouts directory: C:/Users/24158/AppData/Roaming/Xilinx/Vivado/2018.3/layouts
+PlanAhead jar file location: 	E:/program/amd_fpga/vivado/Vivado/2018.3/lib/classes/planAhead.jar
+Vivado log file location: 	E:/test - 副本/filiter/testip/project_1/vivado.log
+Vivado journal file location: 	E:/test - 副本/filiter/testip/project_1/vivado.jou
+Engine tmp dir: 	E:/test - 副本/filiter/testip/project_1/.Xil/Vivado-15032-tianxuan4
+
+Xilinx Environment Variables
+----------------------------
+XILINX: E:/program/amd_fpga/vivado/Vivado/2018.3/ids_lite/ISE
+XILINX_DSP: E:/program/amd_fpga/vivado/Vivado/2018.3/ids_lite/ISE
+XILINX_PLANAHEAD: E:/program/amd_fpga/vivado/Vivado/2018.3
+XILINX_SDK: E:/program/amd_fpga/vivado/SDK/2018.3
+XILINX_VIVADO: E:/program/amd_fpga/vivado/Vivado/2018.3
+XILINX_VIVADO_HLS: E:/program/amd_fpga/vivado/Vivado/2018.3
+
+
+GUI allocated memory:	154 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 761 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// TclEventType: PROJECT_OPEN_DIALOG
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// Opening Vivado Project: E:\test - 副本\filiter\testip\project_1\project_1.xpr. Version: Vivado v2018.3 
+// bx (cp):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project {E:/test - 副本/filiter/testip/project_1/project_1.xpr} 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 81 MB (+82369kb) [00:00:06]
+// [Engine Memory]: 673 MB (+553822kb) [00:00:06]
+// [GUI Memory]: 92 MB (+7792kb) [00:00:06]
+// [Engine Memory]: 711 MB (+4550kb) [00:00:06]
+// WARNING: HEventQueue.dispatchEvent() is taking  1983 ms.
+// Tcl Message: open_project {E:/test - 副本/filiter/testip/project_1/project_1.xpr} 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'E:/test/filiter/testip/project_1' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/program/amd_fpga/vivado/Vivado/2018.3/data/ip'. 
+// [GUI Memory]: 103 MB (+5815kb) [00:00:07]
+// [Engine Memory]: 764 MB (+18999kb) [00:00:07]
+// Project name: project_1; location: E:/test - 副本/filiter/testip/project_1; part: xc7vx485tffg1157-1
+// HMemoryUtils.trashcanNow. Engine heap size: 773 MB. GUI used memory: 97 MB. Current time: 3/22/26, 4:38:57 PM CST
+dismissDialog("Open Project"); // bx (cp)
