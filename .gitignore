@@ -1,0 +1,9 @@
+# 忽略所有仿真文件夹
+project_1/project_1.sim/
+# 忽略所有日志和作业文件
+*.log
+*.jou
+*.pb
+*.str
+# 忽略 Vivado 编译生成的运行文件夹
+project_1/project_1.runs/
